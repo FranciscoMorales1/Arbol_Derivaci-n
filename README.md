@@ -1,6 +1,3 @@
-
-
-````markdown
 # Parser LL(1) con Árbol de Derivación
 
 Este proyecto implementa un parser LL(1) en Python que construye e imprime el árbol de derivación de expresiones aritméticas.
@@ -13,9 +10,7 @@ Instalar Python 3 y las siguientes librerías:
 
 ```bash
 pip install networkx matplotlib pydot
-````
 
-Además, debes tener instalado **Graphviz** en tu sistema para visualizar los árboles.
 
 ---
 
