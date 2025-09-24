@@ -1,12 +1,10 @@
 # Parser LL(1) con Árbol de Derivación
 
-Este proyecto implementa un parser LL(1) en Python que construye e imprime el árbol de derivación de expresiones aritméticas.
+Parser LL(1) en Python que tokeniza expresiones aritméticas y muestra su árbol de derivación (texto y gráfico).
 
----
+## Requisitos (librerías)
 
-## Requisitos
-
-Instalar Python 3 y las siguientes librerías:
+Instala Python 3 y estas librerías:
 
 ```bash
 pip install networkx matplotlib pydot
