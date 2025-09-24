@@ -1,4 +1,4 @@
-Perfecto 👍, aquí tienes el **README.md** simplificado, sin extras innecesarios:
+
 
 ````markdown
 # Parser LL(1) con Árbol de Derivación
