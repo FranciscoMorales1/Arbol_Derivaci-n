@@ -12,9 +12,6 @@ Instalar Python 3 y las siguientes librerías:
 pip install networkx matplotlib pydot
 
 
-```bash
----
-
 ## Ejecución
 
 1. Asegúrate de que el archivo `gramatica.txt` esté en la **misma carpeta** que `Arbol_Derivación.py`.
