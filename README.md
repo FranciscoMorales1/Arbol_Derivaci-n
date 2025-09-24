@@ -11,6 +11,7 @@ Instalar Python 3 y las siguientes librerías:
 ```bash
 pip install networkx matplotlib pydot
 
+---
 
 ---
 
